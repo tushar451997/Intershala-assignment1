@@ -1,4 +1,2 @@
-# Todo-Application
-
-I have make todo app by using reactjs in that i have use ﬁrebase realtime database to add,delete,edit and sort todo data. 
-Link:  https://enchanting-custard-699e3a.netlify.app/ 
+In this assignment they provided Excel file and by using that file i have to show data in tabular format by using reactjs. i have done this assignment and the file contain lots of data hence page take lots of time to load beacause of that system will be hang hence i have use pagination at the top of webpage. Deployed link given below.
+https://quiet-salamander-69d2e6.netlify.app/
